@@ -12,7 +12,7 @@ A responsive and customizable dynamic form builder built with React and Vite. Th
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/abhijeetkhokhar/dynamic_form.git>
    cd dynamic-form
    ```
 
@@ -31,7 +31,7 @@ A responsive and customizable dynamic form builder built with React and Vite. Th
    ```
 
 4. **Open in browser**
-   The application will be available at `http://localhost:5173`
+   The application will be available at `https://dynamic-form-nine-omega.vercel.app/`
 
 ## Available Scripts
 
