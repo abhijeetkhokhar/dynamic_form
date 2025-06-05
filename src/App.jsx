@@ -30,7 +30,9 @@ const App = () => {
     }));
     console.log(JSON.stringify(result, null, 2));
     alert("Form submitted! Check console for output.");
+    setSections([{ title: "", description: "", image: null }]);
   };
+  
 
   return (
     <div className="max-w-3xl mx-auto py-10 px-4">

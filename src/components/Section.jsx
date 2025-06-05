@@ -28,18 +28,7 @@ const Section = ({ index, data, handleChange, handleDelete }) => {
           required
         />
       </label>
-
-      <label className="block mb-4">
-        Image:
-        <input
-          type="file"
-          name="image"
-          accept="image/*"
-          onChange={(e) => handleChange(index, e)}
-          className="mt-1"
-        />
-      </label>
-      
+  
       <button
         type="button"
         onClick={() => handleDelete(index)}
